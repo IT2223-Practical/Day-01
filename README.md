@@ -39,6 +39,7 @@ While i is less than 6, it:
 Displays the value of i.
 
 Increments i by 1.
+
 ![image](https://github.com/user-attachments/assets/be3b661f-426f-4565-bd46-ba2e448b7536)
 
 
