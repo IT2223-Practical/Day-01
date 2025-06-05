@@ -1,6 +1,6 @@
 # Day-01
 
-IfElse.m
+## IfElse.m ##
 
 The code defines a number num = 4.
 
@@ -13,5 +13,20 @@ If the remainder is 0, the number is even.
 Since mod(4, 2) = 0, the code goes to the else branch and displays:
 
 ![image](https://github.com/user-attachments/assets/4c6fd297-0823-44fa-8d9e-12db27c4c3e2)
+
+## FirstProgramme.m ##
+
+This MATLAB code checks if a number is positive or negative:
+
+It assigns num = -4.
+
+Then it uses an if-else statement:
+
+If num > 0, it displays "The value is positive!".
+
+Otherwise, it displays "The value is negative!".
+
+![image](https://github.com/user-attachments/assets/d0142ae5-5930-4199-ba22-24dfbdd323e6)
+
 
 
