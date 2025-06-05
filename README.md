@@ -28,5 +28,19 @@ Otherwise, it displays "The value is negative!".
 
 ![image](https://github.com/user-attachments/assets/d0142ae5-5930-4199-ba22-24dfbdd323e6)
 
+## WhileLoop.m ##
+
+This MATLAB code uses a while loop to display numbers from 1 to 5:
+
+It starts with i = 1.
+
+While i is less than 6, it:
+
+Displays the value of i.
+
+Increments i by 1.
+![image](https://github.com/user-attachments/assets/be3b661f-426f-4565-bd46-ba2e448b7536)
+
+
 
 
